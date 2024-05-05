@@ -1,0 +1,11 @@
+.data/
+build/
+dist/
+INPUT/
+New folder/
+OUTPUT/
+err.out
+err.txt
+*.7z
+*.exe
+*.spec
